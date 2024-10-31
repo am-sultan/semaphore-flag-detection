@@ -3,9 +3,9 @@ This Android application is designed to detect and interpret semaphore flag sign
 
 Features:
 
-Real-time semaphore flag detection
-Immediate message decoding based on recognized semaphore signals
-Easy-to-use interface with reference materials on semaphore positions and meanings
-Supports offline use after initial setup
+Real-time semaphore flag detection,
+Immediate message decoding based on recognized semaphore signals,
+Easy-to-use interface with reference materials on semaphore positions and meanings,
+Supports offline use after initial setup,
 
 This project combines Android development with machine learning, utilizing TensorFlow Lite to handle on-device model inference for efficient and fast performance.
